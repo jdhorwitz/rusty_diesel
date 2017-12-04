@@ -1,5 +1,6 @@
 #[macro_use]
 extern crate diesel_infer_schema;
+#[macro_use]
 extern crate diesel;
 extern crate dotenv;
 
